@@ -36,7 +36,7 @@ const BookingForm = ({ availableTimes, dispatch, submitForm }) => {
   };
 
   const submitButtonStyle = {
-    backgroundColor: "#F4CE14", // Little Lemon Yellow
+    backgroundColor: "#F4CE14",
     color: "#333333",
     padding: "14px",
     borderRadius: "8px",

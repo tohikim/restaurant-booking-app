@@ -38,7 +38,7 @@ const Hero = () => {
 
   const imgStyle = {
     borderRadius: "15px",
-    width: isMobile ? "100%" : "350px", // Stretches on mobile
+    width: isMobile ? "100%" : "350px",
     maxWidth: "350px",
     height: "350px",
     objectFit: "cover",

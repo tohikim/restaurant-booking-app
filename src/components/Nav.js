@@ -41,10 +41,10 @@ const Nav = ({ isMobile, isOpen }) => {
             }}
           >
             <Link
-              to={item.path} // This uses the path for the URL
+              to={item.path}
               style={{ textDecoration: "none", color: "inherit" }}
             >
-              {item.label} {/* CRITICAL: Use .label to get the text */}
+              {item.label}
             </Link>
           </li>
         ))}

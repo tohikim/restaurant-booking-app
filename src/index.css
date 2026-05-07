@@ -9,34 +9,18 @@ body {
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-html, body {
-    width: 100%;
-    overflow-x: hidden; /* Prevents accidental horizontal scrolling */
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
-
-/* .markazi-text-<uniquifier> {
-  font-family: "Markazi Text", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
-
-
-/* .karla-<uniquifier> {
-  font-family: "Karla", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
